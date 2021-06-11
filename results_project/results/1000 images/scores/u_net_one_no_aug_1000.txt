@@ -1,0 +1,17 @@
+name: u_net_one_no_aug_1000
+
+epoch: 0
+train loss: 0.3975626717507839
+Got 79.95% of the pixel classified correct
+Dice score: 0.6325826048851013 
+-------------------------------
+epoch: 1
+train loss: 0.330178709551692
+Got 87.28% of the pixel classified correct
+Dice score: 0.6633352041244507 
+-------------------------------
+epoch: 2
+train loss: 0.3011835815757513
+Got 88.40% of the pixel classified correct
+Dice score: 0.6724240183830261 
+-------------------------------

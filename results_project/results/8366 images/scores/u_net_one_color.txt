@@ -1,0 +1,17 @@
+name: u_net_one_color
+
+epoch: 0
+train loss: 0.30421758003184457
+Got 88.31% of the pixel classified correct
+Dice score: 0.6876882910728455 
+-------------------------------
+epoch: 1
+train loss: 0.2157463730433526
+Got 90.00% of the pixel classified correct
+Dice score: 0.6925722360610962 
+-------------------------------
+epoch: 2
+train loss: 0.18886072436189252
+Got 91.50% of the pixel classified correct
+Dice score: 0.7513346076011658 
+-------------------------------

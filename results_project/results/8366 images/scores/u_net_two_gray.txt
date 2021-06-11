@@ -1,0 +1,17 @@
+name: u_net_two_gray
+
+epoch: 0
+train loss: 0.389006280400784
+Got 87.82% of the pixel classified correct
+Dice score: 0.6492845416069031 
+-------------------------------
+epoch: 1
+train loss: 0.2680217076441387
+Got 90.26% of the pixel classified correct
+Dice score: 0.7337192893028259 
+-------------------------------
+epoch: 2
+train loss: 0.22002454503024285
+Got 92.12% of the pixel classified correct
+Dice score: 0.777894139289856 
+-------------------------------

@@ -1,0 +1,17 @@
+name: u_net_one_gray_1000
+
+epoch: 0
+train loss: 0.40080538906157015
+Got 83.82% of the pixel classified correct
+Dice score: 0.6590588092803955 
+-------------------------------
+epoch: 1
+train loss: 0.3344650351256132
+Got 87.14% of the pixel classified correct
+Dice score: 0.6501509547233582 
+-------------------------------
+epoch: 2
+train loss: 0.30931993284262715
+Got 88.61% of the pixel classified correct
+Dice score: 0.7083433270454407 
+-------------------------------

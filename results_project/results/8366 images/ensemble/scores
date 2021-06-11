@@ -1,0 +1,13 @@
+mayority voting(dus 5 van de 9 moeten het eens zijn) 8366 training images:
+accuracy: 0.9270332469947533
+dice:     0.791352332585205
+
+weights mayority voting based on accuracy for 8366 training images:
+accuracy: 0.9270332469947533 (zelfde als normaal mayority voting)
+dice:     0.791352332585205
+
+weights mayority voting based on dice for 8366 training images:
+accuracy: 0.9270332469947533 (zelfde als normaal mayority voting)
+dice:     0.791352332585205
+
+
